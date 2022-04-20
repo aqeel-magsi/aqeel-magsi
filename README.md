@@ -1,3 +1,5 @@
+![](banner.jpeg)
+
 - I’m @aqeel-magsi, A PhD student at the Chinese University of Hong Kong.
 - 📫 How to reach me ... Aqeelabbas@link.cuhk.edu.hk
 

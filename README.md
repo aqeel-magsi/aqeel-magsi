@@ -3,7 +3,7 @@
 </p>
 
 - I’m Aqeel Abbas, A PhD student at the Chinese University of Hong Kong.
-- 📫 How to reach me ... Aqeelabbas@link.cuhk.edu.hk
+- 📫 How to reach me ... Aqeelabbas(@)link.cuhk.edu.hk
 
 <!---
 aqeel-magsi/aqeel-magsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
